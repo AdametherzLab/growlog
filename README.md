@@ -139,7 +139,7 @@ Found a bug? Want a new feature? Open an issue or PR! We love plant nerds and co
 
 ## 📄 License
 
-MIT © Your Name Here
+MIT © AdametherzLab
 
 ---
 
